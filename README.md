@@ -1,1 +1,1 @@
-# MERNKanban App | React Node MongoDB Material-UI
+# MERN Kanban App 
